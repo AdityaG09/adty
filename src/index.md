@@ -5,7 +5,7 @@ title: "Hello 👋 Welcome!"
 # to keep the "Other posts" box from appearing at the bottom of this page, since it uses 
 # the same layout as posts.
 description: "I’m a fourth-year CS undergrad who loves researching and building computer vision models"
-author: Your name here
+#author: Your name here
 #date: 2018-09-14T15:00:00
 #lastmod: 2020-04-22T19:30:00
 draft: false
