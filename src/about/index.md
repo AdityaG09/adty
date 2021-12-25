@@ -5,7 +5,7 @@ title: "The About Me Page"
 # to keep the "Other posts" box from appearing at the bottom of this page, since it uses 
 # the same layout as posts.
 description: "Wanted to know more about me innit?"
-author: Your name here
+#author: Your name here
 #date: 2018-09-14T15:00:00
 #lastmod: 2020-04-22T19:30:00
 draft: false
