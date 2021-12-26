@@ -13,4 +13,6 @@ featured_image: question-mark-over-mac-keyboard-49958_1280x905.jpg
 featured_image_alt: Stylistic image of question mark superimposed over computer keyboard
 featured_image_caption: "Image: Dalamo; Pixabay"
 ---
+<img width="100%" src="https://github.com/AdityaG09/adty/blob/main/src/duotone_adty-circle.png" align=mid>
+
 Don’t let that pigeonhole me though! When I’m not working, you would likely catch me binging my favourite tracks on repeat or clicking heads on CS:GO. More down that rabbit-hole later in the <a href="https://adty.vercel.app/about/">About Me</a> page. 
